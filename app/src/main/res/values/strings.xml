@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">List</string>
+<string name="back_button">Back</string>
+<string name="delete">Delete</string>
+<string name="delete_title">Are you sure?</string>
+<string name="delete_question">Are you sure you want to delete the item?</string>
+<string name="no_item_description">No items available.\nTap + to add.</string>
+<string name="edit_post">Edit Post</string>
+<string name="item">Item</string>
+<string name="view_post">View Item</string>
+<string name="add_post">Create Item</string>
+<string name="no">No</string>
+<string name="submit_action">Submit</string>
+<string name="yes">Yes</string>
+<string name="required_fields">*required fields</string>
+<string name="date">Date</string>
+<string name="edit">Edit</string>
+<string name="cancel">Cancel</string>
+<string name="post_title">Item Title</string>
+<string name="post_description">Item Quantity</string>
+<string name="all_post">All Item</string>
+</resources>
